@@ -1,0 +1,3 @@
+# Stigma's Bitburner scripts n stuff
+
+This MD is quite lacking, go check Netmap/README.md ...
